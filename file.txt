@@ -8,3 +8,5 @@ some random text
 
 third commit:
 another commit
+
+unwanted commit message
