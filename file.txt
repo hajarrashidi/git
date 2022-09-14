@@ -2,3 +2,6 @@ users:
 kalleanka
 pellevans
 svenforsberg
+
+second commit:
+some random text
